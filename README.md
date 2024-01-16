@@ -32,7 +32,4 @@ Feel free to contribute to the project by forking the repository and submitting 
 ## License
 This project is licensed under the MIT License.
 
-## Contact
-For questions or suggestions, reach out to us at gabrielesfarm@example.com.
-
 Happy Farming! 🌾❤️
