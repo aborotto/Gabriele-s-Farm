@@ -1,7 +1,10 @@
 # Gabriele's Farm - Pygame Edition
 
 Welcome to Gabriele's Farm, a pixelated adventure where you become a farmer, collect hay, avoid mischievous pigs, and power up with chicken thighs for temporary invincibility! 🐖🌾 Compete with other farmers on the leaderboard and see who can achieve the highest score in this Pygame creation.
-
+## Dependencies
+- Python 3.12.0
+- Pygame
+- OpenCV
 ## How to Play
 Clone the repository, install Pygame, and run the game to experience the life of a farmer. Use arrow keys to navigate and collect points while avoiding pesky pigs.
 
