@@ -6,7 +6,15 @@ Welcome to Gabriele's Farm, a pixelated adventure where you become a farmer, col
 - Pygame
 - OpenCV
 ## How to Play
-Clone the repository, install Pygame, and run the game to experience the life of a farmer. Use arrow keys to navigate and collect points while avoiding pesky pigs.
+To run the game using Visual Studio Code:
+1. Open Visual Studio Code.
+2. Open the integrated terminal by selecting "View" -> "Terminal."
+3. Navigate to the project directory using the `cd` command:
+   ```bash
+   cd path/to/your/project/directory
+4. Write "python main.py" and press Enter to begin the game.
+
+Use arrow keys to navigate and collect points while avoiding pesky pigs.
 
 ## Gameplay Highlights
 - **Farm Life:** Immerse yourself in the charming pixelated world of farming.
