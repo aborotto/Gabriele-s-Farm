@@ -23,7 +23,7 @@ Use arrow keys to navigate and collect points while avoiding pesky pigs.
 - **Leaderboard:** Compete with other farmers for the top spot.
 
 ## Watch the Gameplay Video
-[![Gameplay Video](https://i.imgur.com/your-thumbnail-image.jpg)](https://vimeo.com/903448565?share=copy)
+[![Gameplay Video](https://www.youtube.com/watch?v=34Mg1Q5HJCk)
 
 
 ## Contributions Welcome
